@@ -1,5 +1,5 @@
 # Experiment background
-This dataset was collected as part of an observational study on personal light exposure. A detailed description of the experiment is available as a preprint ([Guidolin et al., 2023](https://www.medrxiv.org/content/10.1101/2024.02.11.24302663v1)). 
+This dataset was collected as part of an observational study on personal light exposure. A detailed description of the experiment is available in ([Guidolin et al., 2024](https://www.ncbi.nlm.nih.gov/pubmed/39592960)). The data was further explored for the assessment of different of non-wear detection algorithms ([Guidolin et al., 2025](https://www.biorxiv.org/content/10.1101/2024.12.23.627604v3.full.pdf).
 
 ## Summary of the dataset
 | Dataset name | cyepi |
